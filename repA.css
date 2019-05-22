@@ -1,0 +1,38 @@
+.repAtitre
+{
+	color: rgb(153, 0, 0);
+	text-align: center;
+}
+body
+{
+	background-image: url("plainevert.jpg");
+}
+.repcomplete
+{
+	color: rgb( 33, 47, 60 );
+	border: dotted;
+	background-color: rgba(255, 255, 255, 0.1);
+	position: absolute;
+
+}
+.conti
+{
+
+	position: absolute;
+	top: 90%;
+	bottom: 10%;
+	right: 5%;
+	left: 70%;
+	text-align: right;
+}
+.conti:hover
+{
+	text-decoration: underline;
+	color: rgb(102, 153, 0);
+}
+a
+{
+	text-decoration: none;
+	color: rgb( 211, 84, 0 );
+
+}

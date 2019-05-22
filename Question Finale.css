@@ -1,0 +1,151 @@
+body
+{
+	background-image: url("Bleumarine.jpg");
+
+}
+.entete
+{
+	color: rgb( 68, 70, 173 );
+	text-align: center;
+	border:double;
+	border-color: rgb( 9, 89, 14 );
+
+}
+.quest1
+{
+	color: rgb( 245, 48, 12 );
+	text-align: center;
+	/*border: dashed;*/
+
+}
+.quest1-1
+{
+	color: rgb( 17, 173, 29 );
+	text-align: left;
+	
+}
+.repA
+{ 
+	color: rgb( 183, 28, 28 );
+	position: fixed;
+	right: 38%;
+	left: 46%;
+	bottom: 53%;
+	top: 35%;
+	font-family: Arial;
+	font-size: 30px;
+
+ }
+ .repB
+ {
+ 	color: rgb( 230, 81, 0 );
+	position: fixed;
+	right: 70%;
+	left: 16%;
+	bottom: 25%;
+	top: 60%;
+	font-family: Arial;
+	font-size: 30px;
+
+ }
+ .repC
+ {
+	color: rgb( 0, 204, 153 );
+	position: fixed;
+	right: 20%;
+	left: 77%;
+	bottom: 25%;
+	top: 60%;
+	font-family: Arial;
+	font-size: 30px;	
+
+}
+.repD
+{
+	color: rgb( 0, 251, 51 );
+	position: fixed;
+	right: 38%;
+	left: 47%;
+	bottom: 15%;
+	top: 90%;
+	font-family: Arial;
+	font-size: 30px;	
+
+}
+.repE
+{
+	color: rgb();
+	position: fixed;
+	right: 70%;
+	left: 25%;
+	bottom: 50%;
+	top: 38%;
+	font-family: Arial;
+	font-size: 30px;
+
+}
+.repF
+{
+	color: rgb();
+	position: fixed;
+	right: 35%;
+	left: 65%;
+	bottom: 50%;
+	top: 38%;
+	font-family: Arial;
+	font-size: 30px;
+
+}
+.repG
+{
+	color: rgb();
+	position: fixed;
+	right: 70%;
+	left: 25%;
+	bottom: 38%;
+	top: 85%;
+	font-family: Arial;
+	font-size: 30px;
+
+}
+.repH
+{
+	color: rgb();
+	position: fixed;
+	right: 35%;
+	left: 65%;
+	bottom: 35%;
+	top: 85%;
+	font-family: Arial;
+	font-size: 30px;
+
+}
+a:hover
+{
+	text-decoration: none;
+	color: blue;
+
+}
+img{
+	position: absolute;
+	width: 190px;
+	left: 40% ;
+	bottom: 50%;
+	top: 43%;
+
+}
+.Home1
+{
+	position: absolute;
+	left: 1%;
+	right: 99%;
+	top: 93%;
+	bottom: 7%;
+	opacity: 0.7;
+	width: 50px;
+}
+	
+
+
+
+

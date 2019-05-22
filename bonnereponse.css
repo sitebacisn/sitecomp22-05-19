@@ -1,0 +1,59 @@
+body
+{
+	background-image: url("descoeurs.jpg");
+
+}
+
+.SSS
+{
+	color: rgb(248, 255, 11);
+	text-align: center;
+	border: solid;
+	border-color: rgb(248, 255, 11);
+
+}
+
+.AAA
+{
+	color: rgb(0, 255, 255);
+	text-align: center;
+	font-family: segoe print;
+	font-size: 20px
+}
+
+.CCC
+{
+	color: rgb(0, 27, 255);
+	position: absolute;
+	left: 80%;
+	top: 87%;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.BBB
+{
+	color: rgb(0, 255, 0);
+	text-align: center;
+	font-family: segoe print;
+	font-size: 20px;
+}
+
+.QQQ
+{
+	text-decoration: underline;
+	color: rgb(0, 255, 0);
+	position: fixed;
+	right: 100;
+	left: 0%;
+	top: 20%;
+	bottom: 80%;
+	width: 100%;
+	font-family: segoe print;
+	font-size: 20px;
+}
+a
+{
+	color: rgba(0, 255, 0, 0.75);
+	font-size: 15px;
+}

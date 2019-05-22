@@ -1,0 +1,59 @@
+body
+{
+	background-image: url("plainevert.jpg");
+}
+.entete
+{
+	color: rgb( 153, 255, 0 );
+	text-align: center;
+	border:double;
+	border-color: rgb( 51, 255, 0 );
+
+}
+.quest1
+{
+	color: rgb(51, 204, 0);
+	text-align: center;
+	/*border: dashed;*/
+}
+.quest1-1
+{
+	color: rgb(0, 102, 255 );
+	border: dotted;
+	text-align: center;
+	background-color: rgba( 236, 240, 241 ,0.2);
+
+}
+a
+{
+	text-decoration: none;
+	color: rgb( 255, 204, 0 );
+
+
+}
+.repA
+{
+	text-align: center;
+
+}
+.repB
+{
+	text-align: center;
+}
+.repC
+{
+	text-align: center;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+.Home1
+{
+	position: absolute;
+	left: 1%;
+	right: 99%;
+	top: 92%;
+	bottom: 8%;
+	opacity: 0.7;
+}

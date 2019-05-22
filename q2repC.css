@@ -1,0 +1,31 @@
+.titreq2repC
+{
+  color: red;
+	text-align: center;
+}
+body
+{
+  background-image: url("plainevert.jpg");
+}
+.repcomplete
+{
+  color: rgb( 33, 47, 60 );
+	border: dotted;
+	background-color: rgba(255, 255, 255, 0.1);
+	position: absolute;
+}
+.conti
+{
+text-align: center;
+}
+a
+{
+  text-decoration: none;
+	color: rgb( 211, 84, 0 );
+}
+a:hover
+{
+  text-decoration: underline;
+  font-size: 20px;
+
+}

@@ -1,0 +1,24 @@
+body
+{
+	background-image: url("Monde.jpg");
+	background-attachment: relative;
+	background-position: center;
+
+}
+.entete
+{
+	color: rgba( 255, 0, 51, 0.8);
+	text-align: center;
+	background-color: rgba( 0, 0, 0, 0.7);
+	border:double;
+	border-color: rgb( 9, 89, 14 );
+
+}
+.attendue
+{
+	color: rgba( 17, 173, 29, 0.9);
+	text-align: center;
+	font-size: 25px;
+	background-color: rgba( 0, 0, 0, 0.8);
+
+}

@@ -1,0 +1,29 @@
+.titreB
+{
+	text-align: center;
+	color: rgb(153, 0, 0);
+}
+.repcomplete
+{
+	color: rgb( 33, 47, 60 );
+	border: dotted;
+	background-color: rgba(255, 255, 255, 0.1);
+	position: absolute;
+}
+body
+{
+	background-image: url("plainevert.jpg");
+}
+.conti
+{
+	position: absolute;
+	top: 90%;
+	bottom: 10%;
+	right: 5%;
+	left: 95
+}
+a
+{
+	text-decoration: none;
+	color: rgb( 211, 84, 0 );
+}

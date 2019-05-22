@@ -1,0 +1,73 @@
+body
+{
+	background-image: url("descoeurs.jpg");
+}
+
+.entet
+{
+	color: rgb(248, 255, 11);
+	text-align: center;
+	border: solid;
+	border-color: rgb(248, 255, 11);
+
+}
+.coco
+{
+	text-decoration: underline;
+	color: rgb(0, 255, 0);
+	text-align: center;
+	font-family: blackletter;
+	font-size: 30px
+
+}
+.repA
+{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	right: 72%;
+	left: 28%;
+	top: 85%;
+	bottom: 15%;
+	font-family: arial;
+	font-size: 30px;
+	text-decoration: none;
+
+
+}
+.repB
+{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	right: 45%;
+	left: 45%;
+	top: 60%;
+	bottom: 35%;
+	font-family: arial;
+	font-size: 30px;
+	text-decoration: none;
+
+}
+.repC
+{
+	color: rgb(255, 255, 255);
+	position: absolute;
+	right: 35%;
+	left: 65%;
+	top: 85%;
+	bottom: 15%;
+	font-family: arial;
+	font-size: 30px;
+	text-decoration: none;
+
+}
+a
+{
+	text-decoration: none;
+}
+.Home1
+{
+		position: absolute;
+		left: 2%;
+		bottom: 1%;
+		opacity: 0.7;
+}
